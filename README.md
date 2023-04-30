@@ -1,5 +1,5 @@
 # Visual network analysis with Gephi
-for more details check : [Rapport](https://github.com/2lkacemi/network_visualisation/blob/master/output.pdf)
+for more details check : [Rapport](https://github.com/2lkacemi/network_visualisation/blob/master/cartographie_gephi.pdf)
 
 # Visualizing Les Misérables Characters with Gephi
 
